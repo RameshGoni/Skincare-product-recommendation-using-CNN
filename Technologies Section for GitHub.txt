@@ -1,0 +1,11 @@
+Python
+TensorFlow
+NumPy
+Pandas
+Matplotlib
+Scikit-Learn
+OpenCV
+Flask
+Deep Learning
+Computer Vision
+Machine Learning

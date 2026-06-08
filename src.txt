@@ -1,0 +1,20 @@
+src/
+
+├── dataset/
+├── models/
+│   ├── cnn_model.py
+│   ├── resnet50_model.py
+│   ├── inception_model.py
+│
+├── recommendation/
+│   ├── recommender.py
+│
+├── detection/
+│   ├── yolo_detection.py
+│
+├── preprocessing/
+│   ├── image_processing.py
+│
+├── app.py
+├── train.py
+└── requirements.txt
